@@ -169,13 +169,14 @@ body{
    margin-top: 150px;
    border-radius: 50%;
   /* border: 2px outset #E8E8E8;*/
+  margin-left: 9%;
   }
   .sob-b a{
    margin-top: 120px;
    margin-left: 100px;
   }
   .sob-b ul{
-   margin-left: 420px;
+   margin-left: 49%;
    margin-top: -250px;
   }
   .sob-b li{
