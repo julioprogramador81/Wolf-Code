@@ -61,9 +61,9 @@ body{
    }
    .header h1{
      margin-top: -400px;
-     margin-left: 150px;
+     margin-left: 20%;
      color: #fff;
-     font-size: 52px;
+     font-size: 56px;
     /* font-family: Arial, Helvetica, sans-serif;*/
     font-family:  sans-serif;
     text-shadow: .3rem .4rem 2px rgba(0, 0, 0, .4);
@@ -72,8 +72,8 @@ body{
    }
    .header span{
 
-     margin-top: 250px;
-     margin-left: -77%;
+     margin-top: 247px;
+     margin-left: -75%;
      position: absolute;
      color: #0000FF;
      font-size: 2.8em;
@@ -81,8 +81,8 @@ body{
      text-shadow: .3rem .4rem 2px rgba(0, 0, 0, .4);
    }
    .btn{
-     margin-top: -120px;
-     margin-left: 400px;
+     margin-top: -160px;
+     margin-left: 40%;
      width: 190px;
      height: 50px;
      position: absolute;
@@ -108,7 +108,7 @@ body{
    }
     .sobre a{
      margin-top: 80px;
-    margin-left: 35%;
+    margin-left: 40%;
      position: absolute;
      font-size: 40px;
      text-decoration: none;
@@ -119,10 +119,12 @@ body{
    .sobre span{
     /* color: #1E90FF;*/
       font-family: Fantasy;
+     
    }
    .sob-a span{
        color: #1E90FF;
       font-family: Fantasy;
+     
 
    }
    .sob-a {
@@ -146,7 +148,7 @@ body{
 
    }
    .sob-a span{
-     margin-left: 350px;
+     margin-left: 40%;
      margin-top: 100px;
      position: absolute;
    }
@@ -192,7 +194,7 @@ body{
   .tsev a{
 
    margin-top: 120px;
-   margin-left: 360px;
+   margin-left: 50%;
    position: absolute;
     font-size: 40px;
      text-decoration: none;
@@ -213,13 +215,13 @@ body{
   .tsev-a ul{
    display: inline-flex;
    margin-top: 20px;
-   margin-left: 120px;
+   margin-left: 19%;
 
    
   }
   .tsev-a li{
-   margin-left: 33px;
-   width: 150px;
+   margin-left: 12%;
+   width: 155px;
    height: 280px;
    background: #fff;
    list-style: none;
@@ -261,7 +263,7 @@ body{
   }
   .tec a{
    margin-top: 160px;
-   margin-left: 270px;
+   margin-left: 30%;
    position: absolute;
     font-size: 40px;
      text-decoration: none;
@@ -411,14 +413,14 @@ margin-top: 2000px;
        padding-top: 5px;
      }
      .footer-b a{
-       margin-left: 0px;
+       margin-left: 21%;
        color: #ccc;
        text-decoration: none;
        font-size: 18px;
 
      }
      .footer-b ul{
-       margin-left: 10px;
+       margin-left: 25%;
        margin-top: 6px;
 
      }
@@ -427,7 +429,7 @@ margin-top: 2000px;
        margin-bottom: 2px;
      }
      .footer-c{
-       width: 22%;
+       width: 25%;
        height: 100px;
       /* background: red;*/
        margin-left: 720px;
@@ -436,12 +438,12 @@ margin-top: 2000px;
        
      }
      .footer-c p{
-       margin-left: 55px;
+       margin-left: 40%;
        font-size: 18px;
      }
      .footer-c span{
-       margin-top:20px ;
-       margin-left: 40px;
+       margin-top:10px ;
+       margin-left: 40%;
        position: absolute;
        background: #FFD700;
        padding: 5px 10px;
@@ -481,6 +483,7 @@ margin-top: 2000px;
        width: 100%;
        height: 450px;
        /*background: #0000FF;*/
+      
        background: #F5F5F5;
        color: #0000FF;
        border-top:2px solid #F5F5F5 ;
@@ -488,7 +491,7 @@ margin-top: 2000px;
 
      }
      .sps span{
-       margin-left: 70%;
+       margin-left: 68%;
        background: #000;
        color: #fff;
        padding: 4px 25px 6px 25px;
@@ -497,7 +500,7 @@ margin-top: 2000px;
      .sps a{
       position:relative;
       top:10%;
-      left:28%;
+      left:30%;
      /* color: #696969;*/
      /*color: #1E90FF;*/
      color: #000;
@@ -526,14 +529,14 @@ margin-top: 2000px;
      .sps-a{
        width: 40%;
        height: 235px;
-       margin-left: 450px;
+       margin-left: 45%;
        margin-top: -230px;
        border-left: 3px solid #ccc;
 
      }
      .sps-a p{
        padding-top: 20px;
-       margin-left: 30px;
+       margin-left: 10%;
        color: #4682B4;
      }
      /*------------bt top-----*/
